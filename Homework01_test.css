@@ -1,0 +1,53 @@
+body {
+  font-family: sans-serif;
+}
+
+.navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+.top {
+  color: white;
+  background: linear-gradient(to right, DeepPink , OrangeRed);
+
+}
+
+.middle {
+  background-color: white;
+  color: black
+}
+
+.bottom {
+  background: linear-gradient(to right, DeepPink , OrangeRed);
+  text-decoration: underline;
+  text-decoration-color: blue;
+  color: white;
+}
+
+.headings {
+  color: rgb(84, 49, 34);
+}
+
+.content {
+  color: rgb(155, 118, 119);
+}
+
+.shop {
+  background-color: rgb(255, 236, 236);
+  color: rgb(76, 44, 31);
+  text-align: center;
+}
+
+.sneakers{
+  display: inline-block;
+}
+
+footer {
+  color: grey;
+}

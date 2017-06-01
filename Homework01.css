@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+.top {
+  color: white;
+  background: linear-gradient(to right, DeepPink , OrangeRed);
+
+}
+
+.middle {
+  background-color: white;
+  color: black
+}
+
+.bottom {
+  background: linear-gradient(to right, DeepPink , OrangeRed);
+  text-decoration: underline;
+  text-decoration-color: blue;
+  color: white;
+}
+
+.headings {
+  color: rgb(84, 49, 34);
+}
+
+.content {
+  color: rgb(155, 118, 119);
+}
+
+.shop {
+  color: rgb(76, 44, 31);
+}
+
+footer {
+  color: grey;
+}
