@@ -1,0 +1,157 @@
+body {
+  font-family: sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+
+a:hover {
+    color: deeppink;
+    text-decoration: underline;
+}
+.logo{
+  float: left;
+  width: 5%;
+  height: 5%;
+  padding-bottom: 10px;
+}
+
+.navtest{
+  float: left;
+  display: inline-block;
+  text-decoration: none;
+  color: red;
+}
+
+.navbar{
+  float: right;
+  display: inline-block;
+  text-decoration: none;
+  color: red;
+  text-align: right;
+}
+
+.top{
+  background: linear-gradient(to right, DeepPink , OrangeRed);
+  color: white;
+  /*border: dotted black;*/
+  display: inline-block;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 8%;
+  margin-top: 20px;
+  margin-bottom: 35px;
+}
+
+
+.backpic{
+  text-decoration: none;
+  float: left;
+  /*border: solid blue;*/
+  color: white;
+}
+
+.blackshoe{
+  height: 224px;
+  width: 438px;
+}
+
+.rightside{
+  display: inline-block;
+  /*border: dashed purple;*/
+  float: left;
+  margin-left: 15px;
+}
+
+h5{
+  color: red;
+}
+
+.topcontent{
+  border-top: dashed red;
+  border-bottom: dashed red;
+  margin-bottom: 15px;
+}
+
+.read{
+  float: right;
+  color: red;
+}
+
+button{
+background-color: white;
+border: none;
+color: orangered;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 8px;
+margin-left: 15px;
+}
+
+.middle{
+  margin: auto 20%;
+}
+
+.reviews{
+  float: right;
+}
+
+.pcontent{
+  color:grey
+}
+
+.shop {
+  background-color: rgb(255, 236, 236);
+  color: rgb(76, 44, 31);
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  display: block;
+}
+
+.bottomshoes{
+  /*border: solid red;*/
+  padding-left: 15%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+  background: linear-gradient(to right, DeepPink , OrangeRed);
+}
+
+.product{
+  display: inline-block;
+  margin: 10px;
+  max-width:33%;
+  max-height:33%;
+  border: rgba(0,0,0,0);
+}
+
+.product-image{
+  margin:5px;
+  height: 182px;
+  width: 307px;
+}
+
+.product-description{
+  color: white;
+}
+
+.product-price{
+  float: right;
+}
+
+.arrivaldate{
+  color: green;
+}
+
+.bottomright{
+  float: right;
+}
